@@ -1,1 +1,1 @@
-![stats-svg] (https://stats-svg-dun.vercel.app/api/github-status?username=BIadeRunner)
+![stats-svg](https://stats-svg-dun.vercel.app/api/github-status?username=BIadeRunner)
